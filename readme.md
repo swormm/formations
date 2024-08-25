@@ -32,16 +32,16 @@
 
 ## 🔍 **OSINT (Open Source Intelligence)**
 
-- 🕵️‍♂️ **Comment démarrer : Trouver n'importe qui sur internet - Partie 1**  
+- 🕵️‍♂️ **Comment démarrer **  
   [Lien vers la vidéo](https://www.youtube.com/watch?v=AZvLBSlwCgo)
 
-- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 2**  
+- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 1**  
   [Lien vers la vidéo](https://www.youtube.com/watch?v=NqNg2SKtNAk)
 
-- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 3 (Bonus)**  
+- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 2**  
   [Lien vers la vidéo](https://www.youtube.com/watch?v=ni8JS_IfBDk)
 
-- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 4**  
+- 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 3 (Bonus)**  
   [Lien vers la vidéo](https://www.youtube.com/watch?v=23bC9GQLB38)
 
 ---
