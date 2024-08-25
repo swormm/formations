@@ -32,7 +32,7 @@
 
 ## 🔍 **OSINT (Open Source Intelligence)**
 
-- 🕵️‍♂️ **Comment démarrer **  
+- 🕵️‍♂️ **Comment démarrer**  
   [Lien vers la vidéo](https://www.youtube.com/watch?v=AZvLBSlwCgo)
 
 - 🕵️‍♂️ **Trouver n'importe qui sur internet - Partie 1**  
