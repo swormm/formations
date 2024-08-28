@@ -64,4 +64,7 @@
 - 📗 **Sécurité Informatique - Ethical Hacking (PDF)**  
   [Lien vers le livre](https://repo.zenk-security.com/Magazine%20E-book/Securite%20Informatique%20-%20Ethical%20Hacking.pdf)
 
+- 📕 **Tout en 1 - Hacking and Defence (PDF)**  
+  [Lien vers le livre](https://tk.amikom.ac.id/storage/download/Link%20for%20Understand%20to%20Hacking%20and%20Defence.pdf)
+
 ---
