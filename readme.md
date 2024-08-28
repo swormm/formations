@@ -30,6 +30,16 @@
 
 ---
 
+## 🔐**Ethical Hacking Masterclass Course**
+
+**💾 Size:** 56.1 GB  
+**📚 550+**  
+**🌐 Langue:** Anglais
+
+🔗 [Accéder au cours](https://drive.google.com/drive/folders/1mZwaNmPJB6OcGf-lSejIvbU8y2YxjDt4)
+
+---
+
 ## 🔍 **OSINT (Open Source Intelligence)**
 
 - 🕵️‍♂️ **Comment démarrer**  
@@ -53,15 +63,5 @@
 
 - 📗 **Sécurité Informatique - Ethical Hacking (PDF)**  
   [Lien vers le livre](https://repo.zenk-security.com/Magazine%20E-book/Securite%20Informatique%20-%20Ethical%20Hacking.pdf)
-
----
-
-## 🔐**Ethical Hacking Masterclass Course**
-
-**💾 Size:** 56.1 GB  
-**📚 550+**  
-**🌐 Langue:** Anglais
-
-🔗 [Accéder au cours](https://drive.google.com/drive/folders/1mZwaNmPJB6OcGf-lSejIvbU8y2YxjDt4)
 
 ---
